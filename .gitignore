@@ -1,0 +1,3 @@
+cred.config
+env/**
+.DS_Store
